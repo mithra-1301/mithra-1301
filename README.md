@@ -2,7 +2,7 @@
 # Hi, I'm Mithra 👋
 - 🎓 CSE student
 - 💡 Interests: Web dev, Python
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: mm5969@srmist.edu.in
 
 ## Projects
 - [BMI Calculator] (https://mithra-1301.github.io/bmi-calculator-Public-/index.html)
